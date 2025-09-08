@@ -5,6 +5,7 @@ It covers team performances, toss outcomes, top scorers, and other interesting s
 📂 Files in Repository
 IPL_Data_Analysis.ipynb → Jupyter Notebook with all the analysis and visualizations.
 IPL 2022.csv → Dataset containing IPL 2022 match details.
+
 📊 Key Analysis Performed
 ✅ Team that wins by the highest run margins / successful chases
 ✅ Match-winning trends after winning the toss
